@@ -3,7 +3,7 @@ Final-year Engineering Physics student at IIT Bombay. I use tools from dynamical
 **Neuroscience**
 
 - **Attractor dynamics in mouse motor cortex** (Purdue SURF 2026, Nano Neurotechnology Lab, Prof. Krishna Jayant): continuous attractor structure in motor cortex, and a causal real-time detector of the intent to move. [surf2026-motor-dynamics](https://github.com/Samridh-Tiwari/surf2026-motor-dynamics)
-- **Bachelor's thesis** (IIT Bombay, Prof. Amitabha Nandi, 2026 to present): tests with recurrent networks whose dynamics are known, to check whether latent dynamical models can tell a circuit's own dynamics apart from its inputs.
+- **Bachelor's thesis: steering an attractor** (IIT Bombay, Prof. Amitabha Nandi, 2026): using a recurrent "teacher" network whose dynamics are known, I test what latent dynamical models such as LFADS can and cannot tell us about where to push a neural circuit, and repeat the main result on monkey motor cortex data. [btp-steering-attractor](https://github.com/Samridh-Tiwari/btp-steering-attractor)
 - **Physical stability of objects in the human brain** (Donders Institute, Prof. Marius Peelen, 2025 to present): representational similarity analysis of EEG recordings.
 - **Fitting silicon neuron models** (Prof. Takashi Kohno, University of Tokyo, Dec 2025 to Jan 2026). Code private for now.
 
