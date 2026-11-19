@@ -1,13 +1,20 @@
-Final-year Engineering Physics student at IIT Bombay. I study how populations of neurons compute, using tools from dynamical systems and control.
+Final-year Engineering Physics student at IIT Bombay. I use tools from dynamical systems and control to find the computation that neural circuits carry out: attractor dynamics, what latent dynamical models can and cannot tell us, how to separate a circuit's own dynamics from its inputs, and how controllable neural activity is.
 
-**Research**
+**Neuroscience**
 
-- **Motor cortex dynamics** (Purdue SURF 2026, Nano Neurotechnology Lab, Prof. Krishna Jayant): a continuous attractor in mouse motor cortex and a causal readout for closed-loop intervention. [surf2026-motor-dynamics](https://github.com/Samridh-Tiwari/surf2026-motor-dynamics)
-- **Near-Earth asteroid streak photometry** (with Caltech's Zwicky Transient Facility and IIT Bombay): light curves from streaked asteroid images. First-author paper in preparation; code will be public after publication.
-- **Silicon neuron model fitting** (Kohno Lab, University of Tokyo, Dec 2025 to Jan 2026). Code private for now.
+- **Attractor dynamics in mouse motor cortex** (Purdue SURF 2026, Nano Neurotechnology Lab, Prof. Krishna Jayant): continuous attractor structure in motor cortex, and a causal real-time detector of the intent to move. [surf2026-motor-dynamics](https://github.com/Samridh-Tiwari/surf2026-motor-dynamics)
+- **Bachelor's thesis** (IIT Bombay, Prof. Amitabha Nandi, 2026 to present): tests with recurrent networks whose dynamics are known, to check whether latent dynamical models can tell a circuit's own dynamics apart from its inputs.
+- **Physical stability of objects in the human brain** (Donders Institute, Prof. Marius Peelen, 2025 to present): representational similarity analysis of EEG recordings.
+- **Fitting silicon neuron models** (Prof. Takashi Kohno, University of Tokyo, Dec 2025 to Jan 2026). Code private for now.
 
-**Other projects**
+**Astronomy**
 
-- **Acoustic drone detection** with a wavelet scattering CNN on a Raspberry Pi 4B (EE 678 course project). [DroneSWTCNN](https://github.com/Samridh-Tiwari/DroneSWTCNN)
+- **Photometry of fast-moving near-Earth asteroids** (Zwicky Transient Facility, Caltech, with Dr Quanzhi Ye, Dr Franck Masci and Prof. Varun Bhalerao): brightness changes along asteroid streaks. First-author paper in preparation; the code will be public after publication. Co-discovered six near-Earth asteroids.
+
+**Hardware**
+
+- CubeSat attitude dynamics and detumbling control, Student Satellite Programme, IIT Bombay.
+- Coded-aperture radiation source localiser, STAR-LAB, IIT Bombay.
+- Gesture-controlled robot, XLR8 2023. [XLR8-23-Silicon-Samurai](https://github.com/Samridh-Tiwari/XLR8-23-Silicon-Samurai)
 
 Contact: samridhtiwari3005@gmail.com
